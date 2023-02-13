@@ -12,7 +12,7 @@ import java.time.format.DateTimeFormatter
 import java.time.temporal.ChronoUnit
 
 class Test2 {
-    
+     
     private static final TIME_DAY_MILLISECOND = 86400000
     
     static void main(String[] args) {
