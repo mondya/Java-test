@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c8602ec-f96f-4c47-9dce-78b74db7e01b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/CubeApi.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/DayVO.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/DingDept.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/DingDeptList.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/DingDeptV2.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/MorseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/ObjectToMap.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/PadDecode.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/Partenr.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/SortTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/StrTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/Test.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/Test2.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestBigDecimal.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestCase.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestExcel.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestGString.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestGetMethod.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestJson.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestList.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestListLong.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestMap.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestMath.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestSortString.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestStartWith.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TestStringCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/TimeTest.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/WeekVO.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/groovy/test/constant/ConstantEnum.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/NutritionFacts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Builder/TestThreadProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Enum/ConstantEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Inner/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Thread/MyThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/excel/TestExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/TestLambda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stream/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stream/TestStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tryresources/TestTryResources.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MD5Utils.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/TimeUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestAbstract.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestInt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestString2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestStringv2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xhh/TestTime.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="AUTO_SHOW_ERRORS_IN_EDITOR" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\devSoftware\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../devSoftware/apache-maven-3.5.2" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\devSoftware\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2LgkHrrXcy7agZsLWdM8rjYL2Wq" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/devSoftware/gradle-5.2.1",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8602ec-f96f-4c47-9dce-78b74db7e01b" name="Changes" comment="" />
+      <created>1676300032021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676300032021</updated>
+      <workItem from="1676300033217" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
