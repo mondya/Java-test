@@ -9,5 +9,9 @@ class Partenr {
         Matcher matcher = p.matcher("19906811051");
         boolean matches = matcher.matches();
         print(matches)
+
+        Pattern p1 = Pattern.compile("^[\\u4e00-\\u9fa5A-Za-z0-9 _ \\- @ # ( ) （ ）]+\$")
+        Matcher m = p1.matcher("test-")
+        println m.matches()
     }
 }
