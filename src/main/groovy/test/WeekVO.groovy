@@ -7,6 +7,7 @@ class WeekVO implements Serializable {
     private Boolean top
     private Date date;
     private List<DayVO> dayVOList
+    private String week;
 
     /*
     DayVO getDayVO() {
@@ -36,6 +37,14 @@ class WeekVO implements Serializable {
 
     WeekVO() {
     }
+    
+    String getWeek() {
+        return week;
+    }
+    
+    void setWeek(String s) {
+        this.week = s;
+    }
 
     WeekVO(Long weekId, Long dayStamp) {
         this.weekId = weekId
@@ -64,7 +73,7 @@ class WeekVO implements Serializable {
         return "WeekVO{" +
                 "weekId=" + weekId +
                 ", dayStamp=" + dayStamp +
-                ", top=" + top +
+                ", top=" + top + ", week=" + week + 
                 '}';
     }
 }
