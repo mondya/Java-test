@@ -3,7 +3,7 @@ package test
 
 class WeekVO implements Serializable {
     private Long weekId;
-    private Long dayStamp;
+    private Integer dayStamp;
     private Boolean top
     private Date date;
     private List<DayVO> dayVOList
@@ -46,7 +46,7 @@ class WeekVO implements Serializable {
         this.week = s;
     }
 
-    WeekVO(Long weekId, Long dayStamp) {
+    WeekVO(Long weekId, Integer dayStamp) {
         this.weekId = weekId
         this.dayStamp = dayStamp
     }
@@ -63,7 +63,7 @@ class WeekVO implements Serializable {
         return dayStamp
     }
 
-    void setDayStamp(Long dayStamp) {
+    void setDayStamp(Integer dayStamp) {
         this.dayStamp = dayStamp
     }
 
