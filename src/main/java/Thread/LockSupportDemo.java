@@ -56,7 +56,9 @@ public class LockSupportDemo {
         new Thread(() -> {
             synchronized (o) {
                 try {
+                    System.out.println("come in");
                     o.wait();
+                    System.out.println("notify");
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -73,6 +75,7 @@ public class LockSupportDemo {
         new Thread(() -> {
             synchronized (o) {
                 o.notify();
+                System.out.println("唤醒");
             }
         }).start();
     }
